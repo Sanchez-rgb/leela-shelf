@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+
+Sitemap: https://sanchez-rgb.github.io/leela-shelf/sitemap.xml
